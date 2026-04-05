@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Ishan Shah
 
-<!--
-**ishanshah2612/ishanshah2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Artificial Intelligence in Germany  
+💻 Interested in AI, Machine Learning, and Data Engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am currently pursuing a Master's in Artificial Intelligence and working on projects related to machine learning, recommendation systems, and data warehouses.
+
+---
+
+## Skills
+- Python
+- Machine Learning
+- SQL
+- Data Warehousing
+- Git
+- Linux
+
+---
+
+## Projects
+🎵 Music Recommendation System based on Facial Expressions  
+📊 Data Warehouse Project (DrinkMix Sales Analysis)
+
+---
+
+## Contact
+GitHub: https://github.com/ishanshah2612
