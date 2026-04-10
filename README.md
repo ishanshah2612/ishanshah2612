@@ -40,12 +40,6 @@ I am a passionate software developer and AI enthusiast focusing on machine learn
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanshah2612&show_icons=true&theme=radical&hide_border=true" alt="Ishan's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanshah2612&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
-</p>
-
 ---
 
 ### 📫 Let's Connect!
